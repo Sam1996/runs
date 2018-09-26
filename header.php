@@ -6,7 +6,7 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/main.css">
 </head>
 <body>
-	<div class="container-fluid">
+	<header class="container-fluid header">
 		<div class="row">
 			<nav class="navbar navbar-expand-lg navbar-light bg-light" style="width: 100%">
 				<div class="wraper header-embed">
@@ -36,4 +36,4 @@
 				</div>
 			</nav>	
 		</div>
-	</div>
+	</header>
