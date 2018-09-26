@@ -1,0 +1,45 @@
+h1{
+	font-size: 5rem;
+}
+h2{
+	font-size: 3.6rem;
+}	
+p{
+	font-size: 1.5rem;
+}
+h1.lead-text{
+	color: #ffffff;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.33);
+}
+p.lead-text{
+	color: #ffffff;
+	text-shadow: 2px 2px 4px rgba(0,0,0,0.33);
+}
+.wraper{
+	width: 75%;
+	margin-left:auto;
+	margin-right: auto;
+}
+.padding-top-bottom{
+	padding-top: 6rem;
+	padding-bottom: 6rem;
+}
+.header-embed{
+	padding-top:1.8rem;
+	padding-bottom: 1.8rem;
+	display: flex;
+	align-items: center;
+}
+nav.navbar{
+	padding-right: 0;
+	padding-left: 0;
+}
+.banner{
+	background-image: url('../../images/banner.jpg');
+	min-height: 80vh;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	display: flex;
+	align-items: center;
+}
